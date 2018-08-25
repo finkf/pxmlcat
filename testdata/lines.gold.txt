@@ -1,0 +1,93 @@
+testdata/kant_aufklaerung_1784_0020.xml:tl_1
+( 484 )
+( 484 )
+testdata/kant_aufklaerung_1784_0020.xml:tl_2
+gewiegelt worden; ſo ſchaͤdlich iſt es Vorurtheile zu
+gewiegelt worden; ſo ſchaͤdlich iſt es Vorurtheile zu
+testdata/kant_aufklaerung_1784_0020.xml:tl_3
+pflanzen, weil ſie ſich zuletzt an denen ſelbſt raͤchen,
+pflanzen, weil ſie ſich zuletzt an denen ſelbſt raͤchen,
+testdata/kant_aufklaerung_1784_0020.xml:tl_4
+die, oder deren Vorgaͤnger, ihre Urheber geweſen
+die, oder deren Vorgaͤnger, ihre Urhcbcr geweſen
+testdata/kant_aufklaerung_1784_0020.xml:tl_5
+ſind. Daher kann ein Publikum nur langſam zur
+ſind. Daher kann ein Publikum nur langſam zur
+testdata/kant_aufklaerung_1784_0020.xml:tl_6
+Aufklaͤrung gelangen. Durch eine Revolution wird
+Aufklaͤrung gelangen. Durch eine Revolution wird
+testdata/kant_aufklaerung_1784_0020.xml:tl_7
+vielleicht wohl ein Abfall von perſoͤnlichem Despo-
+vielleicht wohl ein Abfall von perſoͤnlichem Despo-
+testdata/kant_aufklaerung_1784_0020.xml:tl_8
+tism und gewinnſuͤchtiger oder herrſchſüchtiger Be-
+tism und gewinnſuͤchtiger oder herrſchſüchtiger Be-
+testdata/kant_aufklaerung_1784_0020.xml:tl_9
+druͤkkung, aber niemals wahre Reform der Den-
+druͤkkung, aber niemals wahre Relorm der Den-
+testdata/kant_aufklaerung_1784_0020.xml:tl_10
+kungsart zu Stande kommen; ſondern neue Vor-
+kungsart zu Stande kommen; fondern neue Vor-
+testdata/kant_aufklaerung_1784_0020.xml:tl_11
+urtheile werden, eben ſowohl als die alten, zum
+urtheile werden, eben ſowohl als die alten, zum
+testdata/kant_aufklaerung_1784_0020.xml:tl_12
+Leitbande des gedankenloſen großen Haufens
+Leitbande des gedankenloſen großen Haufens
+testdata/kant_aufklaerung_1784_0020.xml:tl_13
+dienen.
+dienen.
+testdata/kant_aufklaerung_1784_0020.xml:tl_14
+Zu dieſer Aufklaͤrung aber wird nichts erfordert
+Zu dieſer Aufklaͤrung aber wird nichts erfordert
+testdata/kant_aufklaerung_1784_0020.xml:tl_15
+als Freiheit; und zwar die unſchaͤdlichſte unter
+als Freiheit; und zwar die unſchaͤdlichſte unter
+testdata/kant_aufklaerung_1784_0020.xml:tl_16
+allem, was nur Freiheit heißen mag, naͤmlich die:
+allem, was nur Freiheit heißen mag, naͤmlich die:
+testdata/kant_aufklaerung_1784_0020.xml:tl_17
+von ſeiner Vernunft in allen Stuͤkken oͤffentlichen
+von ſeiner Vernunft in allen Stuͤkken oͤffentlichen
+testdata/kant_aufklaerung_1784_0020.xml:tl_18
+Gebrauch zu machen. Nun hoͤre ich aber von al-
+Gebrauch zu machen. Nun hoͤre ich aber von al-
+testdata/kant_aufklaerung_1784_0020.xml:tl_19
+len Seiten rufen: raͤſonnirt nicht! Der Offi-
+len Seiten rufen: raͤſonnirt nicht! Der Offi-
+testdata/kant_aufklaerung_1784_0020.xml:tl_20
+zier ſagt: raͤſonnirt nicht, ſondern exercirt! Der
+zier ſagt: raͤſonnirt nicht, fondern exercirt! Der
+testdata/kant_aufklaerung_1784_0020.xml:tl_21
+Finanzrath: raͤſonnirt nicht, ſondern bezahlt! Der
+Finanzrath: raͤſonnirt nicht, fondern bezahlt! Der
+testdata/kant_aufklaerung_1784_0020.xml:tl_22
+Geiſtliche: raͤſonnirt nicht, ſondern glaubt! (Nur
+Geiſtliche: raͤſonnirt nicht, fondern glaubt! (Nur
+testdata/kant_aufklaerung_1784_0020.xml:tl_23
+ein einziger Herr in der Welt ſagt: raͤſonnirt, ſo
+ein einziger Herr in der Welt ſagt: raͤſonnirt, ſo
+testdata/kant_aufklaerung_1784_0020.xml:tl_24
+viel ihr wollt, und woruͤber ihr wollt; aber ge-
+viel ihr wollt, und woruͤber ihr wollt; aber ge-
+testdata/kant_aufklaerung_1784_0020.xml:tl_25
+horcht!) Hier iſt uͤberall Einſchraͤnkung der Frei-
+horcht!) Hier iſt uͤberall Einſchraͤnkung der Frei-
+testdata/kant_aufklaerung_1784_0020.xml:tl_26
+heit. Welche Einſchraͤnkung aber iſt der Aufklaͤ-
+heit. Welche Einſchraͤnkung aber iſt der Aufklaͤ-
+testdata/kant_aufklaerung_1784_0020.xml:tl_27
+rung hinderlich? welche nicht, ſondern ihr wohl gar
+rung hinderlich? welche nicht, fondern ihr wohl gar
+testdata/kant_aufklaerung_1784_0020.xml:tl_28
+befoͤrderlich? — Ich antworte: der oͤffentliche
+befoͤrderlich? — Ich antworte: der oͤffentliche
+testdata/kant_aufklaerung_1784_0020.xml:tl_29
+Gebrauch ſeiner Vernunft muß jederzeit frei ſein,
+Gebrauch ſeiner Vernunft muß jederzeit frei ſein,
+testdata/kant_aufklaerung_1784_0020.xml:tl_30
+und der allein kann Aufklaͤrung unter Menſchen zu
+und der allein kann Aufklaͤrung unter Menſchen zu
+testdata/kant_aufklaerung_1784_0020.xml:tl_31
+Stan-
+Sten-
