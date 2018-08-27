@@ -4,7 +4,9 @@ import (
 	"flag"
 	"fmt"
 	"io"
+	"log"
 	"os"
+	"strings"
 
 	"github.com/finkf/gocrd/mets"
 	"github.com/finkf/gocrd/page"
@@ -75,18 +77,24 @@ func fileGroup(mets mets.Mets, fg string) ([]mets.File, error) {
 }
 
 func catPages(f1, f2 mets.File) error {
-	p1, err := page.Open(f1.FLocat.URL)
+	p1, err := page.Open(localFilePath(f1))
 	if err != nil {
 		return err
 	}
-	p2, err := page.Open(f2.FLocat.URL)
+	p2, err := page.Open(localFilePath(f2))
 	if err != nil {
 		return err
 	}
 	r1 := p1.Regions()
 	r2 := p2.Regions()
+	for _, r := range r1 {
+		log.Printf("r1: %s", r.RefID)
+	}
+	for _, r := range r2 {
+		log.Printf("r2: %s", r.RefID)
+	}
 	if len(r1) != len(r2) {
-		return fmt.Errorf("different region sizes")
+		return fmt.Errorf("different region sizes: %s", localFilePath(f1))
 	}
 	for i := 0; i < len(r1); i++ {
 		if err := catRegions(f1.FLocat.URL, r1[i], r2[i]); err != nil {
@@ -141,4 +149,11 @@ func cat(fn, id string, a, b unicoder) error {
 	bstr, _ := b.TextEquivUnicodeAt(0)
 	_, err := fmt.Fprintf(out, "%s\n%s\n", astr, bstr)
 	return err
+}
+
+func localFilePath(f mets.File) string {
+	if strings.HasPrefix(f.FLocat.URL, "file://") {
+		return f.FLocat.URL[7:]
+	}
+	return f.FLocat.URL
 }
