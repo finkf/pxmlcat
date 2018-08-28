@@ -16,11 +16,17 @@ var (
 	fileInfo bool
 	metsFile string
 	out      io.Writer
+	ai       int
+	bi       int
 )
 
 func init() {
 	flag.BoolVar(&words, "words", false,
 		"split page xml on words")
+	flag.IntVar(&ai, "ai", 0,
+		"set index of first file group's TextEquiv")
+	flag.IntVar(&bi, "bi", 0,
+		"set index of second file group's TextEquiv")
 	flag.BoolVar(&fileInfo, "file-info", false,
 		"add file info header to each block")
 	flag.StringVar(&metsFile, "mets", "mets.xml",
