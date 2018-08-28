@@ -144,8 +144,8 @@ func cat(fn, id string, a, b unicoder) error {
 			return err
 		}
 	}
-	astr, _ := a.TextEquivUnicodeAt(0)
-	bstr, _ := b.TextEquivUnicodeAt(0)
+	astr, _ := a.TextEquivUnicodeAt(ai)
+	bstr, _ := b.TextEquivUnicodeAt(bi)
 	_, err := fmt.Fprintf(out, "%s\n%s\n", astr, bstr)
 	return err
 }
