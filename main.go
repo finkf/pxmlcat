@@ -4,7 +4,6 @@ import (
 	"flag"
 	"fmt"
 	"io"
-	"log"
 	"os"
 	"strings"
 
@@ -87,12 +86,6 @@ func catPages(f1, f2 mets.File) error {
 	}
 	r1 := p1.Regions()
 	r2 := p2.Regions()
-	for _, r := range r1 {
-		log.Printf("r1: %s", r.RefID)
-	}
-	for _, r := range r2 {
-		log.Printf("r2: %s", r.RefID)
-	}
 	if len(r1) != len(r2) {
 		return fmt.Errorf("different region sizes: %s", localFilePath(f1))
 	}
@@ -118,7 +111,7 @@ func catRegions(fn string, r1, r2 page.Region) error {
 	return nil
 }
 
-func catLines(fn string, l1, l2 page.TextLine) error {
+func catLines(fn string, l1, l2 page.Line) error {
 	if !words {
 		return cat(fn, l1.ID, l1, l2)
 	}
